@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Shanmukhi and I'm a passionate Full Stack Developer from India</h2>
+<h2 align="left">Hi 👋! My name is Shanmukhi and I'm a passionate Java & Full Stack Developer from India</h2>
+
+<img align="right" src="WhatsApp Image 2026-03-03 at 10.51.48 PM.jpeg" width="180" style="border-radius:50%;" />
+
+###
 
 ###
 
