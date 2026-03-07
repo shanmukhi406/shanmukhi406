@@ -45,7 +45,7 @@ Built backend APIs using Node.js, managed SQL databases, and contributed to Reac
   <a href="mailto:shanmukhichinni9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/shanmukhi-chinni-86636523a/" target="_blank">
+  <a href="https://www.linkedin.com/in/shanmukhi-chinni-451b063b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/shanmukhi406" target="_blank">
