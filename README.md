@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋 I'm Shanmukhi</h2>
 <h4 align="left">Java | Spring Boot | MERN Stack Developer</h4>
 
-<img align="right" src="shanmukhi.jpeg" width="180" style="border-radius:50%;" />
+<img align="right" src="ShanmukhiGit.png" width="180" style="border-radius:50%;" />
 
 <p align="left">
 Passionate Software Developer focused on building scalable backend systems and dynamic web applications.  
